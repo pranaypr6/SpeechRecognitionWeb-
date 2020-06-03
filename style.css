@@ -1,0 +1,21 @@
+body {
+  background-image: url("./bg.jpg");
+}
+
+h1{
+    color: aliceblue;
+    font-size: 200px;
+    float: right;
+    margin-right: 200px;
+    margin-top: 280px;
+}
+h1:hover{
+    color: #ff6633;
+}
+.text{
+	text-align: center;
+	color: #ffffff;
+	margin-top: 50px;
+	font-size: 60px;
+}
+
